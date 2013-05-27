@@ -7,4 +7,4 @@
 
 代码还在整理中，请等待。。。
 
-体验请移步 https://leavesofmemory.appspot.com/weibo/crawler/main
+体验请移步（需翻墙） https://leavesofmemory.appspot.com/weibo/crawler/main
